@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Belleza';
+    src: url('Belleza-Regular.ttf') format('ttf'),
+    url('Belleza-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Bellefair';
+    src: url('Bellefair-Regular.ttf') format('ttf'),
+    url('Bellefair-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Regular.ttf') format('ttf'),
+    url('Jost-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

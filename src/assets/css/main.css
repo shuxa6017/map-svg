@@ -1,0 +1,12 @@
+@import "../fonts/fonts.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    inset: 0;
+    margin: 0 auto;
+    padding: 0 16px;
+    max-width: 1184px !important;
+}
